@@ -24,7 +24,9 @@ SECRET_KEY = 'old*n1&#vllm280(u8&*bz@r3xuldv)*i0i0!7-#vl7t12@2kk'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [
+    'majestic-zion-06250.herokuapp.com',
+]
 
 # Application definition
 
